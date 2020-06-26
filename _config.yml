@@ -1,4 +1,5 @@
 title: dile-tant
 #logo: /assets/img/logo.png
+logo: logo.svg
 description: user page.
 theme: jekyll-theme-minimal
